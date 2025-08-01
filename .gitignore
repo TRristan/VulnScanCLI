@@ -2,7 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+# Archivo con la clave de API
+apy_key.env
 # C extensions
 *.so
 
