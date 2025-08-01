@@ -1,4 +1,7 @@
 
+
+<img width="400" height="500" alt="Gemini_Generated_Image_65jrqp65jrqp65jr" src="https://github.com/user-attachments/assets/75ed308f-f220-452a-8dfa-f162f7c8edb6" />
+
 # VulnScanCLI
 Una herramienta de línea de comandos (CLI) escrita en Python que escanea tu sistema operativo en busca de software instalado y verifica si tienen vulnerabilidades conocidas (CVEs) a través de la Base de Datos Nacional de Vulnerabilidades (NVD) del NIST.
 
